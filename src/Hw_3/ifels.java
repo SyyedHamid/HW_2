@@ -38,7 +38,9 @@ public class ifels {
 			else {
 				System.out.print("This Student got F");
 			}
+		scan.close();
 		}
+	
 		
 
 }

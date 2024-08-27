@@ -31,6 +31,9 @@ public class GradeSwitch {
 	case 5: System.out.print("This Student got C");
 	break;
 	default:System.out.print("This Student F");
+	
 	}
+	scan.close();
 }
+	
 }
